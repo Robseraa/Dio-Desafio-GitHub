@@ -1,3 +1,3 @@
-## Link para Download do Git
+## Link para download do Git
 
 [Sintaxe Basica Markdown](https://git-scm.com/downloads)
